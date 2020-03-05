@@ -1,0 +1,60 @@
+    1  cd /workspace/Pruebas_Lab_4; clear
+    2  export LANG=en_US.UTF-8;export LANGUAGE=en_US.UTF-8;locale-gen;source ~/.profile; [ ! -f ~/.custom_env ] || source ~/.custom_env; clear;
+    3  cd /workspace/Pruebas_Lab_4; clear
+    4  node
+    5  clear
+    6  echo "# sosPruebas" >> README.md
+    7  git init
+    8  git add README.md
+    9  git commit -m "first commit"
+   10  git remote add origin https://github.com/Adrleogar/sosPruebas.git
+   11  git push -u origin master
+   12  clear
+   13  rm main.js
+   14  git commit -m"first commit"
+   15  git config --global user.email "adrialeogar@gmail.com"
+   16  git config --global user.name "Adrleogar"
+   17  git commit -m "first commit"
+   18  git remote add origin https://github.com/Adrleogar/sosPruebas.git
+   19  git push -u origin master
+   20  git checkout -b l04
+   21  cat README.MD
+   22  cat README.md
+   23  git add.
+   24  git add .
+   25  git commit -m "update md"
+   26  git push
+   27  git push -u origin l04
+   28  node -v
+   29  npm -v
+   30  ls
+   31  npm init 
+   32  touch index.js
+   33  node index.js
+   34  ls
+   35  index.js
+   36  node index.js
+   37  npm start
+   38  npm install cool-ascii-faces
+   39  npm start
+   40  touch .gitignore
+   41  git add 
+   42  git add .
+   43  git commit -m "added git ignore "
+   44  git add.
+   45  git add .
+   46  git commit -m "added git ignore "
+   47  git push
+   48  rm -rf node_modules/
+   49  git add .
+   50  git commit -m "removed node_modules/"
+   51  git push
+   52  npm install
+   53  npm install express --save
+   54  npm index.js
+   55  index.js
+   56  npm start
+   57  clear
+   58  history
+   59  histoy > history.txt
+   60  history > history.txt
